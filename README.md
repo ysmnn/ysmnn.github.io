@@ -8,4 +8,4 @@
 
 As we move further into this digital age, the need for charities to grow their online presence in order to survive is becoming more and more apparent. Having a website is one of the fundamental ways in which a charity can grow their presence
 
-Transanctions are powered by [RazorPay](http://razorpay.com/).
+Transanctions are done through LaunchGood at the Charity's request.
